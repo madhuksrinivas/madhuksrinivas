@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhu%20Kumar%20Srinivas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Banking%20%26%20FinTech%20%7C%20React%20%7C%20Java%20%7C%20AWS&descAlignY=60&descSize=16" width="100%" alt="Madhu Kumar Srinivas — Full Stack Engineer"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
