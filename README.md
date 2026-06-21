@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhu%20Kumar%20Srinivas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20Banking%20%26%20FinTech%20%7C%20React%20%7C%20Java%20%7C%20AWS&descAlignY=62&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhu%20Kumar%20Srinivas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Banking%20%26%20FinTech%20%7C%20React%20%7C%20Java%20%7C%20AWS&descAlignY=60&descSize=16" width="100%" alt="Madhu Kumar Srinivas — Full Stack Engineer"/>
 
 </div>
 
@@ -12,33 +12,20 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
 
-```javascript
-const madhuKumar = {
-  name: "Madhu Kumar Srinivas",
-  location: "Bengaluru, India 🇮🇳",
-  degree: "B.E. Computer Science & Engineering (CGPA: 8.81)",
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-  stack: [
-    "React", "JavaScript (ES6+)", "Java",
-    "MERN Stack", "Tailwind CSS", "TanStack Query",
-    "RESTful APIs", "SQL", "HTML5", "CSS3",
-  ],
-
-  cloud: ["AWS (Certified)", "Docker", "ECS", "Harness CI/CD"],
-
-  currentlyLearning: [
-    "System Design Patterns",
-    "Advanced Cloud Architecture",
-    "TypeScript at Scale",
-  ],
-
-  funFact: "I've delivered 10+ epics & squashed 20+ production bugs 🐛🔨",
-
-  motto: () => "Ship fast. Stay secure. Keep it clean.",
-};
-```
+- 🏦 **Full Stack Engineer** at **Wipro**, building enterprise banking apps for **State Street**
+- 🌏 Based in **Bengaluru, India** with ~4 years of production experience
+- ⚛️ Primary stack: **React · JavaScript (ES6+) · Java · AWS**
+- 🚀 Delivered **10+ epics** and resolved **20+ production issues** in the banking & FinTech domain
+- ☁️ **AWS Certified Cloud Practitioner** | Deployed to AWS ECS via Harness CI/CD pipelines
+- 🎓 B.E. Computer Science & Engineering — **CGPA 8.81 / 10**
+- 🔭 Currently exploring: **System Design · TypeScript · Advanced AWS**
+- 💬 Ask me about: **React, REST APIs, Cloud Deployments, Application Modernization**
+- 📫 Reach me at: **madhusrinivas56@gmail.com**
+- ⚡ Motto: *"Ship fast. Stay secure. Keep it clean."*
 
 <br clear="right"/>
 
