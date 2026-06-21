@@ -83,7 +83,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhuksrinivas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/madhuksrinivas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuksrinivas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuksrinivas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&hide_fork=true"/>
 </a>
 
 </div>
@@ -110,11 +110,17 @@
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Certifications & Recognition
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=madhuksrinivas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/madhuksrinivas)
+![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner%202023-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![React L2](https://img.shields.io/badge/Wipro%20Certified-React%20L2%202024-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Full Stack](https://img.shields.io/badge/StackRoute-Full%20Stack%20Dev%202022-38BDAE?style=for-the-badge&logo=stackshare&logoColor=white)
+
+![Epics](https://img.shields.io/badge/Epics%20Delivered-10%2B-BF91F3?style=for-the-badge&logo=jira&logoColor=white)
+![Production](https://img.shields.io/badge/Production%20Issues%20Resolved-20%2B-70A5FD?style=for-the-badge&logo=statuspage&logoColor=white)
+![Experience](https://img.shields.io/badge/Industry%20Experience-4%20Years-F7DF1E?style=for-the-badge&logo=clockify&logoColor=black)
 
 </div>
 
